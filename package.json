@@ -18,6 +18,7 @@
         "type": "git",
         "url": "https://github.com/alireza-ahmadi/vscode-theme-gotham"
     },
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [
             {
