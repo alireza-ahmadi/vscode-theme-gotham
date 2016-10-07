@@ -1,4 +1,7 @@
 # Gotham
+
+> It's the colorscheme we set that defines us. (Batman)
+
 A very dark color scheme for **Visual Studio Code** based on the popular [vim version](https://github.com/whatyouhide/vim-gotham).
 
 ## Screenshot
@@ -30,4 +33,4 @@ or fix it and [Submit a pull request](https://github.com/alireza-ahmadi/vscode-t
     - [alireza-ahmadi on Github](https://github.com/alireza-ahmadi)
 
 ## Credits
-This theme is ported from [Sublime version of gotham theme](https://github.com/whatyouhide/gotham-contrib/tree/master/sublime-text).
+This theme is ported from [Sublime version](https://github.com/whatyouhide/gotham-contrib/tree/master/sublime-text) of [Gotham theme](https://github.com/whatyouhide/vim-gotham).
