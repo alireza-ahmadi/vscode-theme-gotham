@@ -1,0 +1,22 @@
+{
+    "name": "theme-gotham",
+    "displayName": "Gotham Theme",
+    "description": "A very dark color scheme based on the vim version",
+    "version": "0.0.1",
+    "publisher": "alireza94",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gotham",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gotham.tmTheme"
+            }
+        ]
+    }
+}
