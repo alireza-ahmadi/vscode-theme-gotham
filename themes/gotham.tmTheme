@@ -23,14 +23,9 @@
 
 				<key>lineHighlight</key>
 				<string>#245361</string>
-<!--
-				<key>selection</key>
-				<string>#26198B</string>-->
 
-				<key>selectionBackground</key>
-				<string>#515151</string>
-				<key>selectionForeground</key>
-				<string>#a09f93</string>
+				<key>selection</key>
+				<string>#26198B</string>
 			</dict>
 		</dict>
 
@@ -57,7 +52,7 @@
 				<string>#D26939</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Number</string>
@@ -70,7 +65,7 @@
 			</dict>
 		</dict>
 		<dict>
-
+		
 			<key>name</key>
 			<string>Built-in constant</string>
 			<key>scope</key>
@@ -81,7 +76,7 @@
 				<string>#888BA5</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>User-defined constant</string>
@@ -93,7 +88,7 @@
 				<string>#888BA5</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -107,7 +102,7 @@
 				<string>#D3EBE9</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
@@ -119,7 +114,7 @@
 				<string>#C33027</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Storage</string>
@@ -133,7 +128,7 @@
 				<string>#C33027</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Storage type</string>
@@ -147,7 +142,7 @@
 				<string> italic  </string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Class name</string>
@@ -161,7 +156,7 @@
 				<string>#EDB54B</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Inherited class</string>
@@ -175,7 +170,7 @@
 				<string>#EDB54B</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Function name</string>
@@ -189,7 +184,7 @@
 				<string>#EDB54B</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Function argument</string>
@@ -203,7 +198,7 @@
 				<string>#98D1CE</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Tag name</string>
@@ -217,7 +212,7 @@
 				<string>#EDB54B</string>
 			</dict>
 		</dict>
-
+		
 		<dict>
 			<key>name</key>
 			<string>Tag attribute</string>
@@ -229,7 +224,6 @@
 				<string>#98D1CE</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Library function</string>
@@ -243,7 +237,6 @@
 				<string>#26A98B</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Library constant</string>
@@ -257,7 +250,6 @@
 				<string>#26A98B</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Library class&#x2f;type</string>
@@ -271,7 +263,6 @@
 				<string>#26A98B</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Library variable</string>
@@ -283,7 +274,6 @@
 				<string></string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
@@ -299,7 +289,6 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Invalid deprecated</string>
@@ -313,7 +302,6 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
-
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
