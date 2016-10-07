@@ -1,6 +1,9 @@
 # Gotham
 A very dark color scheme for **Visual Studio Code** based on the popular [vim version](https://github.com/whatyouhide/vim-gotham).
 
+## Screenshot
+![gotham theme screenshot](https://raw.githubusercontent.com/alireza-ahmadi/vscode-theme-gotham/master/images/screenshot.png)
+
 ## Installion
 
 Gotham is available for free on the Visual Studio Code marketplace, it can be installed
