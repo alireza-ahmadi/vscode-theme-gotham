@@ -10,6 +10,14 @@
     "categories": [
         "Themes"
     ],
+    "bugs": {
+        "url": "https://github.com/alireza-ahmadi/vscode-theme-gotham/issues",
+        "email": "a.ahmadi94@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alireza-ahmadi/vscode-theme-gotham"
+    },
     "contributes": {
         "themes": [
             {
