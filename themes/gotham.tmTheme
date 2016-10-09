@@ -138,8 +138,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#33859D</string>
-				<key>fontStyle</key>
-				<string> italic  </string>
 			</dict>
 		</dict>
 		
@@ -380,6 +378,18 @@
 			<dict>
 				<key>foreground</key>
 				<string>#C33027</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>String storage type</string>
+			<key>scope</key>
+			<string>string.storage</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D26939</string>
 			</dict>
 		</dict>
 	</array>
