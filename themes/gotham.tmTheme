@@ -368,6 +368,177 @@
 			</dict>
 		</dict>
 
+		<!-- Markdown specific options -->
+		<dict>
+			<key>name</key>
+			<string>Bold</string>
+			<key>scope</key>
+			<string>markup.bold, punctuation.definition.bold</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EDB54B</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Bold Markdown</string>
+			<key>scope</key>
+			<string>strong md</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EDB54B</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Italic</string>
+			<key>scope</key>
+			<string>markup.italic, punctuation.definition.italic</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#26A98B</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Italic Markdown</string>
+			<key>scope</key>
+			<string>emphasis md</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#26A98B</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Lists</string>
+			<key>scope</key>
+			<string>markup.list.punctuation.definition</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C33027</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Headings</string>
+			<key>scope</key>
+			<string>markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#D26939</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Headings</string>
+			<key>scope</key>
+			<string>markup.heading punctuation.definition.heading, entity.name.section</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D26939</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Separator</string>
+			<key>scope</key>
+			<string>meta.separator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D26939</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Keyword Markdown</string>
+			<key>scope</key>
+			<string>keyword md</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D3EBE9</string>
+			</dict>
+		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>Markdown Quote</string>
+			<key>scope</key>
+			<string>markdown.markup.quote</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#33859D</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Monospace Markdown</string>
+			<key>scope</key>
+			<string>variable md</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D26939</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Code</string>
+			<key>scope</key>
+			<string>markup.raw.inline, markup.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C678DD</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Link Text</string>
+			<key>scope</key>
+			<string>string.other.link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D3EBE9</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Link Url</string>
+			<key>scope</key>
+			<string>meta.link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#888BA5</string>
+			</dict>
+		</dict>
+
 		<!-- Additional improvements -->
 		<dict>
 			<key>name</key>
