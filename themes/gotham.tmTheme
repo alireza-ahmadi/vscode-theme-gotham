@@ -64,8 +64,8 @@
 				<string>#888BA5</string>
 			</dict>
 		</dict>
-		<dict>
-		
+
+		<dict>		
 			<key>name</key>
 			<string>Built-in constant</string>
 			<key>scope</key>
@@ -221,7 +221,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#98D1CE</string>
+				<string>#888BA5</string>
 			</dict>
 		</dict>
 
@@ -306,6 +306,67 @@
 				<string>#AE81FF</string>
 				<key>foreground</key>
 				<string>#F8F8F0</string>
+			</dict>
+		</dict>
+
+		<!-- Stylesheet specific options -->
+		<dict>
+			<key>name</key>
+			<string>StyleSheet Unit</string>
+			<key>scope</key>
+			<string>unit.css, unit.scss, unit.less, unit.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#888BA5</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>StyleSheet Variable</string>
+			<key>scope</key>
+			<string>variable.css, variable.scss, variable.less, variable.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EDB54B</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>StyleSheet Variable String</string>
+			<key>scope</key>
+			<string>variable.css.string, variable.scss.string, variable.less.string, variable.sass.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D26939</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>StyleSheet Property name</string>
+			<key>scope</key>
+			<string>support.type.property-name.css, support.type.property-name.scss, support.type.property-name.less, support.type.property-name.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D3EBE9</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>StyleSheet Property value</string>
+			<key>scope</key>
+			<string>support.constant.css, support.constant.scss, support.constant.less, support.constant.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#26A98B</string>
 			</dict>
 		</dict>
 	</array>
