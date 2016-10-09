@@ -369,6 +369,19 @@
 				<string>#26A98B</string>
 			</dict>
 		</dict>
+
+		<!-- Additional improvements -->
+		<dict>
+			<key>name</key>
+			<string>Link</string>
+			<key>scope</key>
+			<string>string.detected-link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C33027</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
