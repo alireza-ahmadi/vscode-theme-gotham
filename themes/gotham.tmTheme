@@ -224,6 +224,7 @@
 				<string>#98D1CE</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Library function</string>
@@ -237,6 +238,7 @@
 				<string>#26A98B</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Library constant</string>
@@ -250,6 +252,7 @@
 				<string>#26A98B</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Library class&#x2f;type</string>
@@ -263,6 +266,7 @@
 				<string>#26A98B</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Library variable</string>
@@ -274,6 +278,7 @@
 				<string></string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
@@ -289,6 +294,7 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Invalid deprecated</string>
