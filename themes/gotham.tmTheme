@@ -163,9 +163,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic underline</string>
+				<string>underline</string>
 				<key>foreground</key>
-				<string>#EDB54B</string>
+				<string>#26A98B</string>
 			</dict>
 		</dict>
 		
@@ -258,8 +258,6 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#26A98B</string>
 			</dict>
@@ -536,6 +534,43 @@
 			<dict>
 				<key>foreground</key>
 				<string>#888BA5</string>
+			</dict>
+		</dict>
+
+		<!-- PHP specific options -->
+		<dict>
+			<key>name</key>
+			<string>laravel blade tag</string>
+			<key>scope</key>
+			<string>text.html.laravel-blade, source.php.embedded.line.html, entity.name.tag.laravel-blade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C678DD</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>laravel blade @</string>
+			<key>scope</key>
+			<string>text.html.laravel-blade, source.php.embedded.line.html, support.constant.laravel-blade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C679DD</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>PHP tag</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.metatag, variable.interpolation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C679DD</string>
 			</dict>
 		</dict>
 
