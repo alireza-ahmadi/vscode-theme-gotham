@@ -7,6 +7,15 @@ A very dark color scheme for **Visual Studio Code** based on the popular [vim ve
 ## Screenshot
 ![gotham theme screenshot](https://raw.githubusercontent.com/alireza-ahmadi/vscode-theme-gotham/master/images/screenshot.png)
 
+## What's new?
+
+**Version 0.2.0**
+
+- Improve LESS, SASS, SCSS, CSS rendering
+- Improve PHP and Go rendering
+- Add support for Markdown
+- Minor fixes
+
 ## Installion
 
 Gotham is available for free on the Visual Studio Code marketplace, it can be installed
