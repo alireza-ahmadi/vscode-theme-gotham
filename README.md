@@ -12,7 +12,7 @@ A very dark color scheme for **Visual Studio Code** based on the popular [vim ve
 **Version 0.2.0**
 
 - Improve LESS, SASS, SCSS, CSS rendering
-- Improve PHP and Go rendering
+- Improve PHP(Especially Laravel) and Go rendering
 - Add support for Markdown
 - Minor fixes
 
