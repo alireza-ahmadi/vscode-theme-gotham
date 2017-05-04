@@ -9,6 +9,10 @@ A very dark color scheme for **Visual Studio Code** based on the popular [vim ve
 
 ## What's new?
 
+**Version 0.3.0**
+
+- Add support for VSCode 1.12 workbench theming(look at the screenshot)
+
 **Version 0.2.0**
 
 - Improve LESS, SASS, SCSS, CSS rendering
@@ -28,7 +32,7 @@ in the same way as other extensions/themes:
 ## Activation
 
 Go to **View -> Command Palette** or **Press Ctrl/Cmd+Shift+P** and search for **Color Theme**,
-select **Gotham** from the themes list. 
+select **Gotham** from the themes list.
 
 ## Issues
 
