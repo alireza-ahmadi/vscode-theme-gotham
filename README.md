@@ -9,14 +9,24 @@ A very dark color scheme for **Visual Studio Code** based on the popular [vim ve
 
 ## What's new?
 
+**Version 0.4.0**
+
+This update is all about readability:
+
+- Improved rendering of terminal
+- Improved rendering of some TS specific keywords
+- Improved rendering of comments
+- Improved minimap rendering
+- Minor fixes
+
 **Version 0.3.0**
 
 - Add support for VSCode 1.12 workbench theming(look at the screenshot)
 
 **Version 0.2.0**
 
-- Improve LESS, SASS, SCSS, CSS rendering
-- Improve PHP(Especially Laravel) and Go rendering
+- Improved LESS, SASS, SCSS, CSS rendering
+- Improved PHP(Especially Laravel) and Go rendering
 - Add support for Markdown
 - Minor fixes
 

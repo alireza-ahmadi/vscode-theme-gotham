@@ -44,9 +44,9 @@
       "input.background": "#0d1319",
       "input.border": "#599CAB56",
       "inputOption.activeBorder": "#599CAB",
-      "scrollbarSlider.background": "#1A3842",
-      "scrollbarSlider.hoverBackground": "#33859D",
-      "scrollbarSlider.activeBackground": "#D3EBE9",
+      "scrollbarSlider.background": "#1A384255",
+      "scrollbarSlider.hoverBackground": "#33859D55",
+      "scrollbarSlider.activeBackground": "#D3EBE9aa",
       "list.activeSelectionBackground": "#1e2d3c",
       "list.inactiveSelectionBackground": "#1A3842",
       "list.hoverBackground": "#202b35",
@@ -61,7 +61,6 @@
       "panelTitle.activeBorder": "#EDB54B",
       "panelTitle.inactiveForeground": "#98d1ce",
 	  "pickerGroup.border": "#599CAB",
-	  "terminal.forground": "#df0000",
       "terminal.ansiBlack": "#505050",
       "terminal.ansiBlue": "#13789c",
       "terminal.ansiBrightBlack": "#62807f",
@@ -236,6 +235,14 @@
 			}
 		},
 		{
+			"name": "This Keyword",
+			"scope": "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
+			"settings": {
+				"foreground": "#C33027",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
@@ -335,6 +342,13 @@
 			"scope": "markup.heading punctuation.definition.heading, entity.name.section",
 			"settings": {
 				"foreground": "#D26939"
+			}
+		},
+		{
+			"name": "Markdown Code Block",
+			"scope": "markup.inline.raw.markdown, markup.inline.raw.string.markdown",
+			"settings": {
+				"foreground": "#EDB54B"
 			}
 		},
 		{
