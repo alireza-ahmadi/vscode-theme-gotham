@@ -1,31 +1,36 @@
 {
-    "name": "theme-gotham",
-    "displayName": "Gotham Theme",
-    "description": "A very dark color scheme based on the vim version",
-    "version": "0.3.0",
-    "publisher": "alireza94",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "bugs": {
-        "url": "https://github.com/alireza-ahmadi/vscode-theme-gotham/issues",
-        "email": "a.ahmadi94@gmail.com"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/alireza-ahmadi/vscode-theme-gotham"
-    },
-    "icon": "images/icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Gotham",
-                "uiTheme": "vs-dark",
-                "path": "./themes/gotham.json"
-            }
-        ]
-    }
+	"name": "theme-gotham",
+	"displayName": "Gotham Theme",
+	"description": "A very dark color scheme based on the vim version",
+	"version": "0.3.0",
+	"publisher": "alireza94",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"bugs": {
+		"url": "https://github.com/alireza-ahmadi/vscode-theme-gotham/issues",
+		"email": "a.ahmadi94@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alireza-ahmadi/vscode-theme-gotham"
+	},
+	"icon": "images/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gotham",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gotham.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "5f9d7806-6510-4581-919a-8ae750b1e5b3",
+		"publisherDisplayName": "alireza94",
+		"publisherId": "f611f2bd-0dff-487b-8236-737f2a9de93d"
+	}
 }
