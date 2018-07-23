@@ -9,7 +9,7 @@
 		"editorWhitespace.foreground": "#245361",
       "editorLineNumber.foreground": "#589AA9",
       "tab.inactiveBackground": "#161D24",
-      "tab.inactiveForeground": "#555a70",
+      "tab.inactiveForeground": "#696d81",
       "tab.border": "#1F2934",
       "editorGroupHeader.tabsBackground": "#161D24",
       "editorIndentGuide.background": "#1A3842",
@@ -90,7 +90,8 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#13789c"
+				"foreground": "#6e71aa",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -153,9 +154,8 @@
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class",
+			"scope": "entity.name.class, entity.name.type.class",
 			"settings": {
-				"fontStyle": "underline",
 				"foreground": "#EDB54B"
 			}
 		},
@@ -164,6 +164,13 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "underline",
+				"foreground": "#26A98B"
+			}
+		},
+		{
+			"name": "TypeScript Types",
+			"scope": "meta.type.annotation, entity.name.type",
+			"settings": {
 				"foreground": "#26A98B"
 			}
 		},
