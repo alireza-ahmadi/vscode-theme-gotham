@@ -8,7 +8,7 @@ A very dark color scheme for **Visual Studio Code** based on the popular [vim ve
 
 Many things have changed in my personal life since I first created this theme. As
 a result, I'd be happy if someone wanted to become the maintainer of this project.
-[Send me a DM on Twitter](https://github.com/alireza-ahmadi) if you're interested.
+[Send me a DM on Twitter](https://twitter.com/alireza94) if you're interested.
 
 ## Screenshot
 
@@ -16,7 +16,7 @@ a result, I'd be happy if someone wanted to become the maintainer of this projec
 
 ## What's new?
 
-**Version 0.5.0**
+**Version 0.5.1**
 
 - Add support for [Separators extension](https://marketplace.visualstudio.com/items?itemName=alefragnani.separators) (Thanks to @dsynkd)
 
