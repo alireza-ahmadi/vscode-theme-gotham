@@ -4,10 +4,21 @@
 
 A very dark color scheme for **Visual Studio Code** based on the popular [vim version](https://github.com/whatyouhide/vim-gotham).
 
+## Looking for a new maintainer
+
+Many things have changed in my personal life since I first created this theme. As
+a result, I'd be happy if someone wanted to become the maintainer of this project.
+[Send me a DM on Twitter](https://github.com/alireza-ahmadi) if you're interested.
+
 ## Screenshot
+
 ![gotham theme screenshot](https://raw.githubusercontent.com/alireza-ahmadi/vscode-theme-gotham/master/images/screenshot.png)
 
 ## What's new?
+
+**Version 0.5.0**
+
+- Add support for [Separators extension](https://marketplace.visualstudio.com/items?itemName=alefragnani.separators) (Thanks to @dsynkd)
 
 **Version 0.4.0**
 
@@ -52,8 +63,9 @@ or fix it and [Submit a pull request](https://github.com/alireza-ahmadi/vscode-t
 ## Author
 
 - Alireza Ahmadi
-    - [alireza94 on Twitter](https://twitter.com/alireza94)
-    - [alireza-ahmadi on Github](https://github.com/alireza-ahmadi)
+  - [alireza94 on Twitter](https://twitter.com/alireza94)
+  - [alireza-ahmadi on Github](https://github.com/alireza-ahmadi)
 
 ## Credits
+
 This theme is ported from [Sublime version](https://github.com/whatyouhide/gotham-contrib/tree/master/sublime-text) of [Gotham theme](https://github.com/whatyouhide/vim-gotham).

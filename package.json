@@ -2,7 +2,7 @@
 	"name": "theme-gotham",
 	"displayName": "Gotham Theme",
 	"description": "A very dark color scheme based on the vim version",
-	"version": "0.4.0",
+	"version": "0.5.0",
 	"publisher": "alireza94",
 	"engines": {
 		"vscode": "^1.5.0"
